@@ -1,4 +1,4 @@
-import string, random, numpy
+import string, random
 
 # alphabet
 lowercase_alphabet = list(string.ascii_lowercase)
